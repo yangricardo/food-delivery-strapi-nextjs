@@ -20,8 +20,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
+    "start-next": "next start",
     "dev-node": "node src/server.js",
-    "start-node": "NODE_ENV=production node src/server.js -p $PORT"
+    "start": "NODE_ENV=production node src/server.js -p $PORT"
   }
 }

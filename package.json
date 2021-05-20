@@ -1,0 +1,7 @@
+{
+    "name": "food-delivery-strapi-nextjs",
+    "workspaces": [
+        "backend",
+        "frontend"
+    ]
+}

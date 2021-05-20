@@ -1,1 +1,1 @@
-web: npm run develop --workspace=backend
+web: cd backend && npm run develop
